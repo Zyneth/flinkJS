@@ -1,0 +1,190 @@
+{
+  "Products": [
+    {
+      "id": "058ad1a3-6a57-46da-b7bb-3f75bde6abe0",
+      "name": "Hemi Hanfsamen Zuckerfrei 1l",
+      "description": "\n\nNährwerte (pro 100g): Brennwert 82kJ/20kcal, davon , - gesättigte Fettsäuren 0,1g, - einfach ungesättigte Fettsäuren 0,2g, - mehrfach ungesättigte Fettsäuren 0,8g, Kohlenhydrate 0g, - davon Zucker 0g, Ballaststoffe 0,3g, Eiweiß 0,3g, Salz <0,1g\n\nZutaten: Hanfextrakt* (Wasser, 3,5% Hanfsamen*), Sonnenblumenöl*, Verdickungsmittel: Guarkernmehl, Gellan; Antioxidationsmittel: stark Tocopherolhaltige Extrakte*, Ascorbinsäure; Säureregulator: Calcium-Carbonat; Meersalz. * Aus kontrolliert biologischem Anbau.",
+      "price": "2.99 EUR"
+    },
+    {
+      "id": "0d9e556b-4781-47f4-8fcc-a86d71849e9b",
+      "name": "Kraftling Ingwershot Guaranashot 60ml",
+      "description": "Frisch gepresster Ingwer- Guaranashot mit Granatapfel \n\nNährwerte (pro 100g):\n Brennwert kJ / kcal 241/57\n davon ges. Fettsäuren <0,3g\n Kohlenhydrate 12,1g\n davon Zucker 10,4g\n Eiweiß 0,5g\n Salz 0,03g\n\nZutaten: Granatapfelsaft, Zitronensaft und Guarana Extrakt",
+      "price": "2.49 EUR"
+    },
+    {
+      "id": "138e3adc-1ef0-4589-94c0-8e59f8046be0",
+      "name": "Naturally PAM Nut Clusters, Crunchy Cocoa 90g",
+      "description": "Bio-Würfel mit Haselnüssen, Mandeln und Kakaonibs\n\nNährwerte (pro 100g): Energie 2.285kJ, Energie 551kcal, Fett 38,8g, Fett, davon gesättigte Fettsäuren 4,7g, Kohlenhydrate 31,3g, Kohlenhydrate, davon Zucker 15,3g, Ballaststoffe 13,6g, Eiweiß 12,2g, Salz 0,69g\n\nEnthält: Haselnuss und Haselnusserzeugnisse. Mandeln und Mandelerzeugnisse. Kann enthalten: Erdnüsse und Erdnusserzeugnisse. Soja und Sojaerzeugnisse. Milch und Milcherzeugnisse (einschließlich Lactose). Nüsse und Nusserzeugnisse. Sesamsamen und Sesamsamenerzeugnisse\n\nZutaten: HASELNÜSSE 31%, MANDELN 31%, Reissirup, Inulin, Kakaonibs 6%, Reismehl, Salz\n\nKühl und trocken lagern.\n",
+      "price": "4.99 EUR"
+    },
+    {
+      "id": "1414dafd-f8a9-431c-8d59-4df837a2f1dc",
+      "name": "Wholey Açaí Bowl 250g",
+      "description": "Unsere Wholey Açaí Bowl besticht geschmacklich durch eine unschlagbare Kombination aus verschiedenen Beeren, Banane und Kokosnuss. Frisch gemixt und getoppt mit Deinen Lieblingszutaten funktioniert sie perfekt zu jeder Tageszeit! Und das Gute ist, unsere Bowl enthält bereits alle Zutaten und lässt sich einfach mit Wasser im Mixer zubereiten. Du brauchst kein Pulver, keine extra Früchte, kein Püree. Zack, fertig: So schnell hast Du DAS Superfood aus Brasilien auch auf Deinem Teller… äh in Deiner Schüssel.\n\nNährwerte (pro 100g): Energie 494KJ/118kcal, Fett 4,8g, - davon gesättigte Fettsäuren 3,0g, Kohlenhydrate 17,4g, - davon Zucker 14g, Ballaststoffe 3g, Eiweiß 1g, Salz 0,01g\n\nZutaten: Banane Açaí (24%), Erdbeeren, Heidelbeeren, Datteln, Kokosmus.",
+      "price": "3.49 EUR"
+    },
+    {
+      "id": "25a8fa58-a479-4b93-b7be-308d7d5acede",
+      "name": "Alpro Caffe Mandel 235ml",
+      "description": "",
+      "price": "1.59 EUR"
+    },
+    {
+      "id": "30776da3-6914-41f0-b2a4-1ce7b3522119",
+      "name": "True Fruits Smoothie Yellow 250ml",
+      "description": "In unserem Smoothie yellow versteckt sich ganz unbemerkt der Champion unter den Mangos, die Kesar Mango aus Indien. Das sieht man ihm zwar nicht an, aber man schmeckt es.\n\nNährwertangaben (je 100ml): \n Energie: 55 kcal /235 kJ\n Eiweiß: 0,75g\n Kohlenhydrate: 11,8g\n Zucker: 10,6g\n Fett: 0,21g\n Fettsäuren: 0,1g\n Salz: 0,0038g\n\nZutaten: Apfelsaft (34%), Banane (18%), Orangesaft (14%), Himbeere (6%), Heidelbeere (7%), rote Johannisbeere (5%), schwarze Johannisbeere (5%), Brombeere (6%), Granatapfel (5%).\n\nbei +2 bis +7 Grad lagern\n",
+      "price": "2.39 EUR"
+    },
+    {
+      "id": "33eb59f9-955e-4c5e-a965-15011e5ddc4f",
+      "name": "Alpro Caffe Soya Karamel 235 ml",
+      "description": "Kaffee mit Sojadrink, Karamell\n\nNährwerte (pro 100g): Energie 149kJ/36kcal, Fett 0,8g, Fett, davon gesättigte Fettsäuren 0,1g, Kohlenhydrate 4,9g, Kohlenhydrate, davon Zucker 4,9g, Ballaststoffe 1,3g, Eiweiß 1,5g, Salz , Calcium\n\nEnthält: Soja und Sojaerzeugnisse. Kann enthalten: Nüsse und Nusserzeugnisse.\n\nZutaten: Kaffee (53%) (Wasser, Kaffee-Extrakt*), SOJABASIS (Wasser, geschälte SOJABOHNEN (3,9%)), Zucker, karamellisierter Zucker (2,5%), Zichorienwurzelfasern, Säureregulator (Kaliumphosphate), Meersalz, Stabilisatoren (Johannisbrotkernmehl, Gellan), Karamellaroma, natürliches Aroma. Kann Spuren von Schalenfrüchten (keine Erdnüsse) enthalten. Von Natur aus laktosefrei.",
+      "price": "1.59 EUR"
+    },
+    {
+      "id": "38d2af9e-f219-4220-b5a2-7e1e6c0db7fe",
+      "name": "Mövenpick Caffe Espresso 189ml",
+      "description": "Milchmischgetränk Kaffee, 1,5% Fett im Milchanteil\n\nNährwertangaben (je 100g): \n Energie: 65 kcal /273 kJ\n Fett: 1,4g\n Fettsäuren: 1g\n Kohlenhydrate: 9,5g\n Zucker: 8,9g\n Eiweiß: 3,5g\n Salz: 0,1g\n\nEnthält: Milch und Milcherzeugnisse (einschließlich Lactose).\n\nZutaten: 76% fettarme MILCH, 19% Kaffee (flüssiger Kaffee-Extrakt, Wasser), Zucker, Verdickungsmittel: Carrageen. Koffeingehalt: ca. 58 mg/100 ml\n\nBei +8°C mindestens haltbar bis: siehe Deckel\n",
+      "price": "0.99 EUR"
+    },
+    {
+      "id": "396aa56e-e221-4f5c-9029-45690f71f9d5",
+      "name": "Bio Tofu Natur 200g",
+      "description": "\n\nNährwerte (pro 100g): Energie 508kJ/122kcal, Fett 7,1g, Fett, davon gesättigte Fettsäuren 1,2g, Kohlenhydrate 0,5g, Kohlenhydrate, davon Zucker 0,5g, Eiweiß 12g, Salz <0,01g\n\nAllergenhinweise: Enthält: Soja und Sojaerzeugnisse.\n\nZutaten: Zutaten: Wasser, SOJABOHNEN* (20%), Gerinnungsmittel: Calciumsulfat. (* = aus kontrolliert biologischem Anbau).",
+      "price": "2.49 EUR"
+    },
+    {
+      "id": "51d524a1-8ba6-4b53-8912-014fafe40c0e",
+      "name": "Bürger vegane Maultaschen 300g",
+      "description": "-\n\n Nährwerte (je 100g): Brennwert 173kcal/731kJ, Fett 3,3g, davon gesättigte Fettsäuren 0,3g, Kohlenhydrate 26g, davon Zucker 3,6g, Ballaststoffe 3,4g, Eiweiß 8,1g, Salz 1,2g\n\nBürger GmbH & Co. KG\nZeiss-Str. 12 - 71254 Ditzingen\n\nDeutschland\n\nEnthält: Getreide mit Gluten und deren Derivate im Produkt, Weizen und ihre Ableitungen im Produkt, Sojabohnen und ihre Ableitungen im Produkt\n\nZutaten: Hartweizengriess, 22% Gemüse in veränderlichen Gewichtsanteilen (Blattspinat, Lauch, Zwiebeln), Trinkwasser, Weißbrot (Weizenmehl, Trinkwasser, Speisesalz, Hefe), 8% Weizeneiweißerzeugnis (Trinkwasser, Weizeneiweiss), Petersilie, Rapsöl, Speisesalz, Erbsenprotein, Bambusfasern, Zucker, fraktioniertes Erbsenmehl, Verdickungsmittel: Natriumalginat, Stärke, Gewürze, Festigungsmittel: Calciumsulfat, Stabilisator: (Natriumcitrate, Natriumacetate, Ascorbinsäure), Glukosesirup, Gewürzextrakte.\n\nLagerung bei < 7°C. Geöffnete Packung innerhalb von 1-2 Tagen verbrauchen.\n",
+      "price": "1.99 EUR"
+    },
+    {
+      "id": "53a35a28-b1de-48ea-ba79-af3c08813bea",
+      "name": "O-Mochi Mochi Eis Salted Caramel 6 Stück, 180g",
+      "description": "\n\nNährwerte (pro 100g): Energie 653kJ/154kcal, Fett 0,2g, davon gesättigte Fettsäuren <0,1g, Kohlenhydrate 36,3g, davon Zucker 20,5g, Eiweiß 1,7g, Salz\n\nKann Spuren von GLUTEN und SCHALDENFRÜCHTEN enthalten.\n\nZutaten: Wasser, pürierte Erdbeeren (16,5%), Klebreismehl, Zucker, Trehalose*, Dextrose, Trockenglukose, Invertzucker, Maltodextrin, Palmfett, Stabilisator: E471, Antioxidanten: E322 (SOJALECITHIN), E304, E307, E330, Emulgatoren: E472b, E477, Zitronensaft, modifizierte Stärke, Verdickungsmittel: E412, Farbstoffe: E160a, E162, Salz. *Trehalose ist eine Glukosequelle.",
+      "price": "5.99 EUR"
+    },
+    {
+      "id": "5443b3fe-f78a-4eef-bc71-71b9bd7166c4",
+      "name": "J. J. Darboven Bio Café Intención ecológico Espresso Ganze Bohne 1kg",
+      "description": "Röstkaffee in ganzen Bohnen\n\nNährwertangaben (je 100g): \n Energie: 194 kcal /811 kJ\n Fett: 13,4g\n Fettsäuren: 5g\n Kohlenhydrate: 1,5g\n Zucker: 1,5g\n Eiweiß: 14g\n Salz: 0,03g\n\nEnthält: Keine deklarationspflichtigen Allergene enthalten.\n\nKaffee",
+      "price": "16.99 EUR"
+    },
+    {
+      "id": "66a14100-75f2-4b2f-9c29-c5f01be92d65",
+      "name": "True Fruits Smoothie Purple 250ml",
+      "description": "In unserem Smoothie purple steckt die volle Ladung Beerenpower. Das macht ihn ein bisschen sauer, aber lustig.\n\nNährwertangaben (je 100ml): \n Energie: 54 kcal /228 kJ\n Eiweiß: 0,7g\n Kohlenhydrate: 12g\n Zucker: 11g\n Fett: 0g\n Fettsäuren: 0g\n Salz: 0g\n\nZutaten: Apfelsaft (34%), Banane (18%), Orangesaft (14%), Himbeere (6%), Heidelbeere (7%), rote Johannisbeere (5%), schwarze Johannisbeere (5%), Brombeere (6%), Granatapfel (5%).\n\nbei +2 bis +7 Grad lagern\n",
+      "price": "2.39 EUR"
+    },
+    {
+      "id": "690608c2-e660-44ac-92b4-b7fa2d16946e",
+      "name": "Mövenpick Caffe Macchiato 190ml",
+      "description": "Milchmischgetränk Kaffee; 4,0 % Fett im Milchanteil\n\nNährwertangaben (je 100g): \n Energie: 82 kcal /351 kJ\n Fett: 3,7g\n Fettsäuren: 2,6g\n Kohlenhydrate: 9,2g\n Zucker: 8,8g\n Eiweiß: 3,4g\n Salz: 0,1g\n\nEnthält: Milch und Milcherzeugnisse (einschließlich Lactose).\n\nZutaten: 79 % VOLLMILCH, 16% Kaffee (flüssiger Kaffee-Extrakt, Wasser), Zucker, Verdickungsmittel: Carrageen. Koffeingehalt: ca. 34 mg/100 ml\n\nBei +8°C mindestens haltbar bis: siehe Deckel\n",
+      "price": "0.99 EUR"
+    },
+    {
+      "id": "6b681ed7-f5c6-4503-b474-57c8e2708b27",
+      "name": "Butchers Broiche Burger Buns 250g",
+      "description": "Weizensoftbrötchen-Hefefeingebäck\n\nNährwerte (pro 100g): Energie 1.248kJ, Fett 7,2g, Fett, davon gesättigte Fettsäuren 3,5g, Kohlenhydrate 47g, Kohlenhydrate, davon Zucker 8,7g, Eiweiß 9g, Salz 1,1g\n\nEnthält: Eier und Eierzeugnisse , Glutenhaltiges Getreide (Weizen, Gerste, Roggen, Hafer, Dinkel, Kamut oder Hybridstämme) , Milch und Milcherzeugnisse (einschließlich Lactose). Kann Spuren von Sesam enthalten\n\nZutaten: WEIZENMEHL, Wasser, HÜHNERVOLLEI*, Zucker, BUTTERREINFETT 3%**, Invertzuckersirup, Rapsöl, WEIZENGLUTEN, Hefe, MAGERMILCHPULVER, Speisesalz, natürliches Aroma, Emulgator (Mono- und Diglyceride von Speisefettsäuren), MILCHEIWEISS, Roggenmalzmehl, Trockenhefe, Ethanol. *Eier aus Bodenhaltung **entspricht 3,6% Butter",
+      "price": "1.99 EUR"
+    },
+    {
+      "id": "6ef2a815-f109-4304-bdb0-07aca01e466d",
+      "name": "Mitsuba Wasabi Peanut Crunch & Crispies 100g",
+      "description": "",
+      "price": "1.89 EUR"
+    },
+    {
+      "id": "7c39ba10-a8c2-4272-b57d-10da76da8973",
+      "name": "Naturally PAM Nut Clusters, Peanut Cinnamon 90g",
+      "description": "In einer Tüte Nut Clusters Peanut Cinnamon von Naturally PAM stecken viele kleine Leckerbissen zum Knabbern und Teilen. Die veganen Bio-Nusswürfel sind voller Ballaststoffe. Ganze Nüsse machen sie zu echten Powerstückchen. Je nach Sorte werden die Würfel durch gepuffte Quinoa oder Kakaonibs besonders knackig. Ein leckerer Snack für alle, die Lust auf eine bewusste Ernährung haben.\n\n\nNährwertangaben (je 100g): \n Energie: 519 kcal /2156 kJ\n Fett: 33,8g\n Fettsäuren: 5,2g\n Kohlenhydrate: 30,1g\n Zucker: 15,1g\n Fettsäuren: 12,5g\n Eiweiß: 17,3g\n Salz: 0,69g\n\nKann Spuren enthalten von Nüsse und Nussderivate. Kann Mandeln, Haselnüsse, Walnüsse, Cashewnüsse etc. einschließen, Sesamsamen und Sesamsamenerzeugnisse\n\nZutaten: ERDNÜSSE 58%, Reissirup, ERDNUSSpaste aus gerösteten ERDNÜSSEN 10%, Inulin, Quinoa gepufft, Salz, Ceylon Zimt 0,6%. Alle Zutaten, bis auf Salz, sind aus kontrolliert biologischem Anbau.\n\nKühl und trocken lagern.\n",
+      "price": "4.99 EUR"
+    },
+    {
+      "id": "8dc5aaef-69d3-4972-940d-8a5c62060acd",
+      "name": "J.J. Darboven Bio Café Crema Intención ecológico Ganze Bohne 1kg",
+      "description": "Röstkaffee in ganzen Bohnen\n\nNährwertangaben (je 100g): \n Energie: 194 kcal /811 kJ\n Fett: 13,4g\n Fettsäuren: 5g\n Kohlenhydrate: 1,5g\n Zucker: 1,5g\n Eiweiß: 14g\n Salz: 0,03g\n\nEnthält: Keine deklarationspflichtigen Allergene enthalten.\n\nKaffee",
+      "price": "16.99 EUR"
+    },
+    {
+      "id": "9591dd51-40e7-45d1-a0a1-8d44e3728173",
+      "name": "Hemi Hanfsamen Drink Original 1l",
+      "description": "\n\nNährwerte (pro 100g): Brennwert 111kJ/27kcal, davon , - gesättigte Fettsäuren 0,1g, - einfach ungesättigte Fettsäuren 0,2g, - mehrfach ungesättigte Fettsäuren 0,8g, Kohlenhydrate 1,8g, - davon Zucker 1,8g, Ballaststoffe 0,3g, Eiweiß 0,3g, Salz <0,1g\n\nZutaten: Hanfextrakt* (Wasser, 3,5% Hanfsamen*), Roh-Rohrzucker*, Sonnenblumenöl*, Verdickungsmittel: Guarkernmehl, Gellan; Antioxidationsmittel: stark Tocopherolhaltige Extrakte*, Ascorbinsäure; Säureregulator: Calcium-Carbonat; Meersalz *. Aus kontrolliert biologischem Anbau.",
+      "price": "2.99 EUR"
+    },
+    {
+      "id": "967872c6-8d3b-4bbe-ba4d-e449092779fd",
+      "name": "True Fruits Smoothie Pink 250ml",
+      "description": "Unser Smoothie pink fällt allein wegen der intensiven Farbe auf, die er der Pinken Drachenfrucht zu verdanken hat. In Fachkreisen wird unser Smoothie pink auch liebevoll #Einhornkotze genannt.\n\nNährwertangaben (je 100ml): \n Energie: 53 kcal /223 kJ\n Eiweiß: 0,5g\n Kohlenhydrate: 12,4g\n Zucker: 10,7g\n Fett: 0,1g\n Fettsäuren: 0,1g\n Salz: 0,0025g\n\nZutaten: Zutaten: Apfelsaft 49%, Guanabana 22%, Banane 17%, pinke Drachenfrucht 12%\n\nBei +2 bis +7 Grad lagern\n",
+      "price": "2.39 EUR"
+    },
+    {
+      "id": "a58784e7-d2fb-4244-8000-e8aa16535d7b",
+      "name": "Mitsuba Thai Chili Crispies 85g",
+      "description": "REISSCRACKER MIT PIKANT-WÜRZIGEM CHILI GESCHMACK\n\n\nNährwerte (pro 100g): Energie 2.254kJ, Energie 540kcal, Fett 32,3g, Fett, davon gesättigte Fettsäuren 2,8g, Kohlenhydrate 58,1g, Kohlenhydrate, davon Zucker 14,5g, Ballaststoffe 1,3g, Eiweiß 3,6g, Salz 2,4g\n\nEnthält: Soja und Sojaerzeugnisse. Weizen und Weizenerzeugnisse (glutenhaltiges Getreide). Glutenhaltiges Getreide und glutenhaltige Getreideerzeugnisse. Kann enthalten: Erdnüsse und Erdnusserzeugnisse. Nüsse und Nusserzeugnisse. Sesamsamen und Sesamsamenerzeugnisse.\n\nZutaten: 45% Jasminreis, Sonnenblumenol, Zucker, Tapiokastärke,Sojasoße (Wasser, SOJABOHNEN, WEIZEN, Salz,) Salz, Knoblauchpulver, 0,3% Chillipulver, Farbstoff(Paprikaextrakt), Süßholzpulver, Säureregulator(Citronensäure).",
+      "price": "1.89 EUR"
+    },
+    {
+      "id": "a717232d-2b7d-4b16-b5ad-9ee1169baae7",
+      "name": "Deo Spray Axe Alaska 150ml",
+      "description": "Der Duft kommt angenehm natürlich und gleichzeitig selbstbewusst rüber. Die anregende Kombination aus Grapefruit und Bergamotte hält den Träger in jeder Situation frisch, Melone und Ananas bieten Balance, selbst bei Gratwanderungen.\n\nInhaltsstoffe: Alcohol Denat., Butane, Isobutane, Propane, Parfum, Ethylhexylglycerin, Alpha-Isomethyl Ionone, Citral, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool.",
+      "price": "2.99 EUR"
+    },
+    {
+      "id": "b3735b43-5bc4-4df1-bace-6396204531b6",
+      "name": "Alpro Skyr Style Natur Ungesüßt 400g",
+      "description": "Die Alpro Skyr Style Joghurtalternative ist randvoll mit pflanzlichem Protein und super cremig. Und netterweise auch noch von Natur aus fettarm. \n\nNährwertangaben (je 100g): \nEnergie: 60 kcal /252 kJ\n Fett: 3,3g\n Fettsäuren: 0,6g\n Kohlenhydrate: 0g\n Zucker: 0g\n Fettsäuren: 1,3g\n Eiweiß: 5,8g\n Salz: 0,33g\n Vitamin-D 0,75µg\n Vitamin B-12 0,38µg\n Kalzium 120mg\n\nKann Spuren von Schalenfrüchten (keine Erdnüsse) enthalten. Glutenfrei.\n\nZutaten: Sojabasis (Wasser, geschälte Sojabohnen (15,7%)), Zucker, Stabilisator (Pektine), Tricalciumcitrat, Säureregulatoren (Natriumcitrate, Citronensäure), natürliches Aroma, Meersalz, Antioxidationsmittel (stark tocopherolhaltige Extrakte, Fettsäureester der Ascorbinsäure), Vitamine (B12, D2), Joghurtkulturen (Str. thermophilus, L. bulgaricus).\n\n- Gekühlt aufbewahren bei max. 7°C. Nach Anbruch 5 Tage im Kühlschrank haltbar.\n",
+      "price": "1.89 EUR"
+    },
+    {
+      "id": "bf2a52a8-c970-478b-9ce8-bcb0fd155d37",
+      "name": "J. J. Darboven Bio Café Intención ecológico Espresso gemahlen 250g",
+      "description": "Röstkaffee, gemahlen\n\n-\n\nEnthält Koffein \n\nKaffee",
+      "price": "4.49 EUR"
+    },
+    {
+      "id": "cd30d4f0-6edd-43d7-88f3-bc235567ec9c",
+      "name": "O-Mochi Mochi Eis Pistachio 6 Stück, 180g",
+      "description": "Traditioneller Mochi mit italienischem Eis gefüllt\n\nNährwerte (pro 100g): Energie 893kJ/212kcal, Fett 7,15g, Fett, davon gesättigte Fettsäuren 2,8g, Kohlenhydrate 32,5g, Kohlenhydrate, davon Zucker 11g, Eiweiß 3,9g, Salz 0,03g\n\nKann Spuren von Sojabohnen, Gluten und Schalenfrüchten enthalten.\n\nZutaten: Wasser, Klebereismehl, Zucker, Sahne (Milch), Trehalose*, Glukose, Magermilchpulver, Pistazienpaste (4,9%) (Pistazien (Schalenfrüchte), Farbstoff E141), Invertzucker, Maltodextrin, Palmöl, Dextrose, Stabilisatoren: E471, E466 und E407, Emulgatoren: E471, E472b und E477, Salz",
+      "price": "5.99 EUR"
+    },
+    {
+      "id": "d282dab9-12e7-45b2-bc92-33d4791cb27d",
+      "name": "Deo Spray Dove Invisible Dry 150ml",
+      "description": "Das Dove Anti-Transpirant Spray Invisible Dry ist das erste Dove Anti-Transpirant, das auf 100 Farben getestet wurde und keine sichtbaren weißen Flecken hinterlässt. \n\nInhaltsstoffe: Butane, Isobutane, Propane, Cyclopentasiloxane, PPG-14 Butyl Ether, Aluminum Chlorohydrate, Parfum, Disteardimonium Hectorite, Octyldodecanol, BHT, Helianthus Annuus Seed Oil, Propylene Carbonate, Dimethiconol, Tocopheryl Acetate, Citric acid, Alpha-Isomethyl Ionone, Benzyl alcohol, Benzyl Salicylate, Butylphenyl Methylpropional, Cinnamyl Alcohol, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Limonene, Linalool",
+      "price": "2.49 EUR"
+    },
+    {
+      "id": "d6f29d81-ea7c-43a1-9291-fd200e5ab332",
+      "name": "Alpenhain Obazda 125g",
+      "description": "-\n\nNährwerte (pro 100g): Energie 1.357kJ/328kcal, Fett 29g, Fett, davon gesättigte Fettsäuren 19g, Kohlenhydrate 3g, Kohlenhydrate, davon Zucker 1,5g, Eiweiß 13g, Salz 1,7g\n\nAlpenhain Käsespezialitäten GmbH\n Lehen 24, 83539 Pfaffing\n\nDeutschland\n\nEnthält: Milch und Milcherzeugnisse (einschließlich Lactose).\n\nZutaten: 53 % CAMEMBERT, RAHM, BUTTER, FRISCHKÄSE, Zwiebeln, Salz, Gewürze, Kümmel.\n\nbei <= +8°C mindestens haltbar bis: siehe Aufdruck\n",
+      "price": "1.99 EUR"
+    },
+    {
+      "id": "d7958b76-db4e-4a2c-a75d-262eda848f13",
+      "name": "My Coffee Cup Bio Kaffee Lungo Bellissimo 10 Kapseln",
+      "description": "kompostierbare Kapseln mit gemahlenem BIO-Kaffee. Arabica und Robusta\n\nZutaten: 100% biologischer Kaffee",
+      "price": "2.99 EUR"
+    },
+    {
+      "id": "e0f08850-571b-4af1-91d4-b3b3f812c9d9",
+      "name": "Emmi Caffe Latte Cappuccino 230ml",
+      "description": "Milchmischerzeugnis aus teilentrahmter Milch mit frisch gebrühtem Kaffee und Kakao\n\nNährwertangaben (je 100ml): \nEnergie: 61 kcal /258 kJ\n Fett: 1,2g\n Fettsäuren: 0,7g\n Kohlenhydrate: 9,5g\n Zucker: 9,1g\n Eiweiß: 2,9g\n Salz: 0,08g\n\nEnthält: Milch und Milcherzeugnisse (einschließlich Lactose). Milchzucker (Laktose).\n\nZutaten: Teilentrahmte MILCH 80%, gebrühter Arabica-Kaffee* 15%, Zucker, Kakaopulver* 0,2%. *Rainforest Alliance Certified.\n\nBei 8°C mindestens haltbar bis: siehe Verpackungsaufdruck.\n",
+      "price": "1.69 EUR"
+    },
+    {
+      "id": "e6b180f1-d65e-4b64-8348-19f6fb7b34b7",
+      "name": "Bio Tofu Geräuchert 200g",
+      "description": "\n\nNährwerte (pro 100g): Energie 531kJ/127kcal, Fett 7,8g, Fett, davon gesättigte Fettsäuren 1,3g, Kohlenhydrate 0,7g, Kohlenhydrate, davon Zucker 0,6g, Eiweiß 13g, Salz 0,51g\n\nAllergenhinweise: Enthält: Soja und Sojaerzeugnisse.\n\nZutaten: Wasser, SOJAbohnen* (20%), SOJAsauce* (Wasser, SOJAbohnen*, Salz), Salz, Karotten*, Petersilie*, Gerinnungsmittel: Calciumsulfat; Buchenholzrauch. (* = aus kontrolliert biologischem Anbau).",
+      "price": "2.49 EUR"
+    },
+    {
+      "id": "feae73e8-0dec-4bcd-a9e8-3b341d9282c6",
+      "name": "Häagen-Dazs Favorite Selection Eis 4x95ml",
+      "description": "Nie wieder entweder oder, sondern alle Lieblingssorten auf einmal: Cookies & Cream, Macadamia Nut Brittle, Vanilla Caramel Brownie und Dulce de Leche.\n\nNährwerte (pro 100g): Energie 1.121kJ, Fett 15,7g, Fett, davon gesättigte Fettsäuren 10,1g, Kohlenhydrate 27,2g, Kohlenhydrate, davon Zucker 25,7g, Ballaststoffe 0g, Eiweiß 4,5g, Salz 0,21g\n\nAllergenhinweise: Enthält: Milch und Milcherzeugnisse (einschließlich Lactose). Eier und Eierzeugnisse. Macadamianuss und Macadamianusserzeugnisse. Weizen und Weizenerzeugnisse (glutenhaltiges Getreide). Kann enthalten: Nüsse und Nusserzeugnisse.\n\nZutaten: Dulce de Leche Zutaten: Frische SAHNE (31%), KONDENSMAGERMILCH, Zucker, KONDENSMILCH, EIGELB, Glukosesirup, Kokosnussöl, Speisesalz, natürliches Vanillearoma, Geliermittel (Pektine). Macadamia Nutbrittle Zutaten: Frische SAHNE (33%), KONDENSMAGERMILCH, Zucker, Wasser, EIGELB, Glukosesirup, Kokosnussöl, MACADAMIANÜSSE (0,8%), BUTTER, natürliches Vanillearoma, Backtriebmittel (Natriumhydrogencarbonat), Speisesalz, Emulgator (Sonnenblumenlecithin). KANN WEITERE SCHALENFRÜCHTE ENTHALTEN. Vanilla Caramel Brownie Zutaten: Frische SAHNE (30,1%), KONDENSMAGERMILCH, Zucker, Wasser, gesüßte KONDENSMILCH, EIGELB, WEIZENMEHL, pflanzliche Öle (Kokosnuss, Sonnenblume), Glukosesirup, fettreduziertes Kakaopulver, VOLLEI, natürliches Vanillearoma, Maisstärke, Speisesalz, Verdickungsmittel (Pektine), natürliches Aroma, Backtriebmittel (Natriumhydrogencarbonat). Cookies & Cream Zutaten: Frische SAHNE (34,5%), KONDENSMAGERMILCH, Wasser, Zucker, EIGELB, WEIZENMEHL, Kokosnussöl, fettreduziertes Kakaopulver, natürliches Vanillearoma, Backtriebmittel (Natriumhydrogencarbonat), Speisesalz.",
+      "price": "5.99 EUR"
+    }
+  ]
+}
