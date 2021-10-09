@@ -1,5 +1,5 @@
 # flinkJS
-A script to get new added articles on FLINK.
+A script to get newly added articles on FLINK.
 
 First install the required modules by doing **npm i**.
 Next configure your .env for your flink region/ nearby flink location (Examples given in the code).
