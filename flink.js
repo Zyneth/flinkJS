@@ -2,6 +2,16 @@ require('dotenv').config();
 var axios = require('axios');
 var fs = require('fs');
 
+const webhookClient = new WebhookClient({ id: process.env.WEBHOOKID, token:process.env.WEBHOOKTOKEN});
+
+channel.createWebhook('Flink Webhook', {
+	avatar: 'https://i.imgur.com/JiF6DNA.jpeg',
+})
+	.then(webhook => console.log(`Created webhook ${webhook}`))
+	.catch(console.error);
+
+
+
 
 axios({
   method: 'get', // http call
