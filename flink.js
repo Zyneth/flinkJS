@@ -13,19 +13,23 @@ axios({
 }).then(response => {
           fs.readFile('products.json', 'utf-8', function(err, data) {
             var arrayOfObjects = JSON.parse(data)
+            
           	if (err) throw err
             for (i in response.data.swim_lanes[0].products) { // loop products array
-              if (response.data.swim_lanes[0].products[i].id != arrayOfObjects.Products[i].id){ // check if id already exists
-                arrayOfObjects.Products.push({
-                  'id': response.data.swim_lanes[0].products[i].id,  // add ID, name, desc and price in our JSON object
-                 'name':response.data.swim_lanes[0].products[i].name,
-                 'description':response.data.swim_lanes[0].products[i].description,
-                 'price': response.data.swim_lanes[0].products[i].price.amount+' EUR'});
-                 console.log(response.data.swim_lanes[0].products[i].name+ ' added')
-
-  
-                 fs.writeFile('products.json', JSON.stringify(arrayOfObjects, 'id', 2), 'utf-8', function(err) { // write to external file
-                 if (err) throw err})
+            
+              if (arrayOfObjects.Products[i]?.id == response.data?.swim_lanes[0]?.products[i]?.id  ){ // check if id already exists
+                  console.log(response.data.swim_lanes[0].products[i].name + "already exists");
+                  }else{
+                    arrayOfObjects.Products.push({
+                      'id': response.data.swim_lanes[0].products[i].id,  // add ID, name, desc and price in our JSON object
+                     'name':response.data.swim_lanes[0].products[i].name,
+                     'description':response.data.swim_lanes[0].products[i].description,
+                     'price': response.data.swim_lanes[0].products[i].price.amount+' EUR'});
+                     console.log(response.data.swim_lanes[0].products[i].name+ ' added')
+    
+      
+                     fs.writeFile('products.json', JSON.stringify(arrayOfObjects, 'id', 2), 'utf-8', function(err) { // write to external file
+                     if (err) throw err})
                   }
               }
          }
