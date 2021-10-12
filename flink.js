@@ -34,15 +34,13 @@ axios({
                      'price': response.data[i].price.amount+' EUR'});
                      console.log(response.data[i].name+ ' added')
     
-      
                      fs.writeFile('products.json', JSON.stringify(arrayOfObjects, 'id', 2), 'utf-8', function(err) { // write to external file
-                   
                     
                      if (err) throw err})
                   }
               }
 
-              for (i in arrayOfObjects.Products){
+              for (i in arrayOfObjects.Products){ // Loop JSON file and send it to Webhook
                 const embed = new MessageEmbed() // Webhook Content
                 .setTitle(response.data[i].name)
                 .setURL('https://www.goflink.com/'+process.env.REGION+'/shop/product/'+response.data[i].slug+ '-'+ response.data[i].sku+'/')
