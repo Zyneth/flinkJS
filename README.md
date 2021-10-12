@@ -7,7 +7,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is a fix to FLINKs "Newly added products" function.It can be bind to any communication platform such as discord or microsoft teams (as webhook or bot) for real-time notifications.
+This project is a fix to FLINKs "Newly added products" function. It can be bind to any communication platform such as discord or microsoft teams (as webhook or bot) for real-time notifications.
 	
 ## Technologies
 Project is created with:
