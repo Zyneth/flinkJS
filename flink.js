@@ -4,7 +4,7 @@ var fs = require('fs');
 const { MessageEmbed, WebhookClient } = require('discord.js');
 
 
-const webhookClient = new WebhookClient({ id: process.env.WEBHOOKID, token: process.env.WEBHOOKTOKEN });
+const webhookClient = new WebhookClient({ id: process.env.WEBHOOKID, token: process.env.WEBHOOKTOKEN }); // Webhook ID and Token
 
 
 
@@ -43,7 +43,7 @@ axios({
               }
 
               for (i in arrayOfObjects.Products){
-                const embed = new MessageEmbed()
+                const embed = new MessageEmbed() // Webhook Content
                 .setTitle(response.data[i].name)
                 .setURL('https://www.goflink.com/'+process.env.REGION+'/shop/product/'+response.data[i].slug+ '-'+ response.data[i].sku+'/')
                 .setColor('#0099ff')
