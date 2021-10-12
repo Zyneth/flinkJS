@@ -31,7 +31,7 @@ Also your JSON object should look like this:
 ## .env Variables
 You will need the following variables in your .env file to run this script:
 
-*REGION (Example: de-DE)
+* REGION (Example: de-DE)
 * FLINKLOCATION (Example: de_ber_wilm for a location in berlin)
 * WEBHOOKID (The first parameter of your Webhook URL -> https://discord.com/api/webhooks/{YOURID}/{YOURTOKEN})
 * WEBHOOKTOKEN (The second parameter of your Webhook URL -> https://discord.com/api/webhooks/{YOURID}/{YOURTOKEN})
