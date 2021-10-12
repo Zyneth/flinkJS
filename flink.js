@@ -7,6 +7,9 @@ const { MessageEmbed, WebhookClient } = require('discord.js');
 const webhookClient = new WebhookClient({ id: process.env.WEBHOOKID, token: process.env.WEBHOOKTOKEN }); // Webhook ID and Token
 
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 
 
 axios({
@@ -39,22 +42,39 @@ axios({
                      if (err) throw err})
                   }
               }
-
+              
+              async function discordWebhook(){
               for (i in arrayOfObjects.Products){ // Loop JSON file and send it to Webhook
                 const embed = new MessageEmbed() // Webhook Content
                 .setTitle(response.data[i].name)
                 .setURL('https://www.goflink.com/'+process.env.REGION+'/shop/product/'+response.data[i].slug+ '-'+ response.data[i].sku+'/')
                 .setColor('#0099ff')
                 .setDescription(response.data[i].description)
-                .setFooter('Preis:' + response.data[i].price.amount+'€')
-                .setImage(response.data[i].images[0]);
+                .setImage(response.data[i].images[0])
+                .addField(
+                  "Preis",response.data[i].price.amount+'€'
+                );
 
-                webhookClient.send({
+                try {
+                  embed.addField(
+                    "Typ",response.data[i].synonyms[0].charAt(0).toUpperCase() +response.data[i].synonyms[0].slice(1) );// Fehler wird ausgelöst
+               }
+               catch (e) {
+                  // Anweisungen für jeden Fehler
+                   // Fehler-Objekt an die Error-Funktion geben
+               }
+               
+               webhookClient.send({
               
                 embeds: [embed],
                   });
                 
+                await  sleep(3000);
+                
               }
+            }
+             
+              discordWebhook();
          }
    )}
 )
