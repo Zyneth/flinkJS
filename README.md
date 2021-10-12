@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [.ENV variables](#env-variables)
 
 ## General info
 This project is a fix to FLINKs "Newly added products" function. It can be bind to any communication platform such as discord or microsoft teams (as webhook or bot) for real-time notifications.
@@ -28,7 +29,7 @@ Also your JSON object should look like this:
   "Products": []
 }
 ```
-## .env Variables
+## .ENV variables
 You will need the following variables in your .env file to run this script:
 
 * REGION (Example: de-DE)
