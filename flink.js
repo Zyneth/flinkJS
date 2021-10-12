@@ -53,7 +53,8 @@ axios({
                 .setImage(response.data[i].images[0])
                 .addField(
                   "Preis",response.data[i].price.amount+'€'
-                );
+                )
+                .setFooter('Location: ' + process.env.FLINKLOCATION);
 
                 try {
                   embed.addField(
